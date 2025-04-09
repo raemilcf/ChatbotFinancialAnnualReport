@@ -1,0 +1,15 @@
+pandas
+torch
+fuzzywuzzy
+prettytable
+nltk
+transformers
+Flask==3.0.3
+gunicorn
+faiss-cpu
+sentence-transformers
+huggingface-hub
+llama-cpp-python
+langchain
+langchain-community
+
